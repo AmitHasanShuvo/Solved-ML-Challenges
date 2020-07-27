@@ -8,7 +8,7 @@ Linkedin: hhttps://www.linkedin.com/in/kazi-amit-hasan/<br/>
 Email: kaziamithasan89@gmail.com <hr>
 
 # Result: I ranked 32th out of 487 participants. (Top 6%)
-
+[LeaderBoard Link](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-the-lowest-price/leaderboard/predict-the-lowest-price-8-9ffabe00/ )
 
 ## Competition: HackerEarth Machine Learning challenge: Slashing prices for the biggest sale day
 
