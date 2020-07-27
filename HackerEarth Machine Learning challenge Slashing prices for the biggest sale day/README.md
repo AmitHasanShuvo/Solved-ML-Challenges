@@ -24,4 +24,4 @@ The dataset folder consists of the following files:
 
 - Train.csv: Contains training data [9798 x 9] that must be used to build the model
 - Test.csv: Contains test data [5763 x 8] to be predicted on
-- sample_submission.csv: Contains sample submission format with dummy values filled for test data
+- sample_submission.csv: Contains sample submission format with dummy values filled for test data.
