@@ -4,8 +4,8 @@ Department of Computer Science & Engineering, <br/>
 Rajshahi University of Engineering & Technology (RUET) <br/>
 Website: https://amithasanshuvo.github.io/ <br/>
 ResearchGate: https://www.researchgate.net/profile/Kazi_Amit_Hasan <br/>
-Linkedin: hhttps://www.linkedin.com/in/kazi-amit-hasan/<br/>
-Email: kaziamithasan89@gmail.com <hr>
+Linkedin: https://www.linkedin.com/in/kazi-amit-hasan/<br/>
+Email: kaziamithasan89@gmail.com 
 
 # Result: I ranked 32th out of 487 participants. (Top 6%)
 [LeaderBoard Link](https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-predict-the-lowest-price/leaderboard/predict-the-lowest-price-8-9ffabe00/ )
@@ -24,4 +24,8 @@ The dataset folder consists of the following files:
 
 - Train.csv: Contains training data [9798 x 9] that must be used to build the model
 - Test.csv: Contains test data [5763 x 8] to be predicted on
+<<<<<<< HEAD
 - sample_submission.csv: Contains sample submission format with dummy values filled for test data.
+=======
+- sample_submission.csv: Contains sample submission format with dummy values filled for test data
+>>>>>>> bff8a46d6a016e04273c0c25581ceb72b3cf7564
