@@ -27,5 +27,5 @@ This table may help you to find the specific problem and solutions. Keep Learnin
 |  1  | HackerEarth Deep Learning challenge: Identify the dance form |   [Solution](https://github.com/AmitHasanShuvo/HackerEarth-Machine-Learning-Challenges/tree/master/HackerEarth%20Deep%20Learning%20challenge%20Identify%20the%20dance%20form)     | Classification |       86th out of 5800+ participants       (Top 1.4%)     |
 |  2  |               SIIM-ISIC Melanoma Classification              |        | Classification | Ongoing |
 |  3  | HackerEarth Machine Learning challenge: Slashing prices for the biggest sale day |   [Solution](https://github.com/AmitHasanShuvo/Machine-Learning-Competitions/tree/master/HackerEarth%20Machine%20Learning%20challenge%20Slashing%20prices%20for%20the%20biggest%20sale%20day)     | Regression  |       33th out of 487 participants  (Top 6%)      |
-|  4  | HackerEarth Machine Learning challenge: Adopt a Dog |   [Solution](#)     | Classification  |       Ongoing     |
+|  4  | HackerEarth Machine Learning challenge: Adopt a buddy |   [Solution](#)     | Classification  |       Ongoing     |
 
