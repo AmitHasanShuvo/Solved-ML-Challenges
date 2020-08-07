@@ -16,7 +16,7 @@ Email: kaziamithasan89@gmail.com
 
 # Description
 
-This repository contains the approaches and solutions of the problems appear in different Machine Learning Competitions like HackerEarth ML challenge, Kaggle Competitions etc. I am trying to improve my skills as much as possible.
+This repository contains the approaches and solutions of the problems appear in different Machine Learning Competitions like HackerEarth ML challenge, Kaggle Competitions etc. I am trying to improve my skills as much as possible. Please have a look at the table below.
 
 *Please put a star if you find it helpful.*
 
