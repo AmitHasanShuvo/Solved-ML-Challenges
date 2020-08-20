@@ -22,8 +22,8 @@ This repository contains the approaches and solutions of the problems appear in 
 
 This table may help you to find the specific problem and solutions. Keep Learning! 
 
-| No. |                        Challenge Name                        | Folder |      Type      |                  Position                 |
-|:---:|:------------------------------------------------------------:|:------:|:--------------:|:-----------------------------------------:|
+| No. |                        Challenge Name                        | Folder |      Type      |                  Position                 | LeaderBoard |
+|:---:|:------------------------------------------------------------:|:------:|:--------------:|:-----------------------------------------:|:-----------------------------------------:|
 |  1  | HackerEarth Deep Learning challenge: Identify the dance form |   [Solution](https://github.com/AmitHasanShuvo/HackerEarth-Machine-Learning-Challenges/tree/master/HackerEarth%20Deep%20Learning%20challenge%20Identify%20the%20dance%20form)     | Classification |       86th out of 5800+ participants       (Top 1.4%)     |
 |  2  |               SIIM-ISIC Melanoma Classification              |   [Solution](#)      | Classification | 90th out of 3319 teams (Top 3%)   **Solo Silver Medal** |
 |  3  | HackerEarth Machine Learning challenge: Slashing prices for the biggest sale day |   [Solution](https://github.com/AmitHasanShuvo/Machine-Learning-Competitions/tree/master/HackerEarth%20Machine%20Learning%20challenge%20Slashing%20prices%20for%20the%20biggest%20sale%20day)     | Regression  |       33th out of 487 participants  (Top 6%)      |
