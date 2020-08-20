@@ -1,4 +1,4 @@
-# Machine Learning Competitions
+# Solved Machine Learning Challenges
 
 ![Author](https://img.shields.io/badge/author-AmitHasanShuvo-orange)
 [![MIT](https://img.shields.io/badge/license-MIT-5eba00.svg)](https://github.com/AmitHasanShuvo/Machine-Learning-Competitions/blob/master/LICENSE.md)
