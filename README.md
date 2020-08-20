@@ -29,5 +29,7 @@ This table may help you to find the specific problem and solutions. Keep Learnin
 |  3  | HackerEarth Machine Learning challenge: Slashing prices for the biggest sale day |   [Solution](https://github.com/AmitHasanShuvo/Machine-Learning-Competitions/tree/master/HackerEarth%20Machine%20Learning%20challenge%20Slashing%20prices%20for%20the%20biggest%20sale%20day)     | Regression  |       33th out of 487 participants  (Top 6%)      |
 |  4  | HackerEarth Machine Learning challenge: Adopt a buddy |   [Solution](#)     | Classification  |       Ongoing     |
 |  5  | OSIC Pulmonary Fibrosis Progression |   [Solution](#)     | Regression  |       Ongoing     |
+|  6  | Google Landmark Retrieval 2020 |   [Solution](#)     | Research  |       91th out of 541 teams (Top 17%) [Bronze Medal]     |
+
 
 
